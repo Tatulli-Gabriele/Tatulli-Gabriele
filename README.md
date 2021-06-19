@@ -21,4 +21,4 @@
   - Kotlin JVM 1.5.10
   
 # 📫 How to reach me:
-  - Telegram: t.me/TatulliGabriele
+  - Telegram: [@TatulliGabriele](https://t.me/TatulliGabriele/)
